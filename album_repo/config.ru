@@ -1,2 +1,2 @@
 require './app'
-run Application
+run Application # file: config.ru
